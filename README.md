@@ -6,7 +6,9 @@ A regex, or regular expression, tutorial for email validation
 
 ## Description
 
-This tutorial is featuring regular expressions, or also called Regexes.
+This tutorial is featuring regular expressions, also called Regexes. I have chosen, Matching an Email – "/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/" as the regex im covering. This tutorial is great for any beginners who want to better understand what regular expressions are and how to use Regexs to validate emails. In tutorial, I go over Anchors, Quantifiers, OR Operator, Look-Ahead, Look-Behind, etc etc.
+
+I have also provided a link to the Github Gist down below.
 
 ## Table of Contents
 
@@ -15,6 +17,8 @@ This tutorial is featuring regular expressions, or also called Regexes.
 - [Starter Code](#starter-code)
 - [Gists](#gists)
 - [Regex](#regex)
+- [School Links](#school-links)
+- [Source Links In Github Gist](#source-links-in-gist)
 - [Credits](#credits)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
@@ -84,6 +88,13 @@ Links:
 - [Quick Sort](https://en.wikipedia.org/wiki/Sorting_algorithm#Quicksort)
 - [Full Stack Blog](https://coding-boot-camp.github.io/full-stack/)
 - [How to Install MongoDB](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb)
+
+## Source Links in Gist
+
+- [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions?fbclid=IwAR0Ffg_ibaJt_ZFzl2Wjy9ziYNCGlWVNtP-8Ucn4JRRNIrjNKC85a0fbGCI)
+- [Regular expression syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet?fbclid=IwAR2g29IIeP0F3gPS8I6mY5dAY-REPY7S4Z6P68MEF1A2W9wkSZoBfwt2_UY)
+- [Regex tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+
 
 ## Credits
 
